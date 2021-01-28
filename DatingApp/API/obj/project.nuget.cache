@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vm79ZRwneQ/lXoQpuTGBY71GzK3Gq8aAD3ZRVygAqSx7aeH2845snkz2Cdp4Aaftwv95wFdsvDVIffG66Lr2wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
