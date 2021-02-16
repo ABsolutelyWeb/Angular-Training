@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Abhishek.Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\Abhishek.Gupta\\Desktop\\Angular-Training\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -45,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
